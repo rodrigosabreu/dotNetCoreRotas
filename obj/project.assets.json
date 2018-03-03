@@ -12541,11 +12541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\EstudosDotNetCore\\mvc\\dotNetCoreRotas\\mvc.csproj",
+      "projectUniqueName": "C:\\EstudosDotNetCore\\dotNetCoreForms\\mvc.csproj",
       "projectName": "mvc",
-      "projectPath": "C:\\EstudosDotNetCore\\mvc\\dotNetCoreRotas\\mvc.csproj",
+      "projectPath": "C:\\EstudosDotNetCore\\dotNetCoreForms\\mvc.csproj",
       "packagesPath": "C:\\Users\\RABREU\\.nuget\\packages\\",
-      "outputPath": "C:\\EstudosDotNetCore\\mvc\\dotNetCoreRotas\\obj\\",
+      "outputPath": "C:\\EstudosDotNetCore\\dotNetCoreForms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

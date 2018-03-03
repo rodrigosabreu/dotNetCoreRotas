@@ -20,3 +20,14 @@ C:\EstudosDotNetCore\mvc\dotNetCoreRotas\obj\Debug\netcoreapp2.0\mvc.AssemblyInf
 C:\EstudosDotNetCore\mvc\dotNetCoreRotas\obj\Debug\netcoreapp2.0\mvc.AssemblyInfo.cs
 C:\EstudosDotNetCore\mvc\dotNetCoreRotas\obj\Debug\netcoreapp2.0\mvc.dll
 C:\EstudosDotNetCore\mvc\dotNetCoreRotas\obj\Debug\netcoreapp2.0\mvc.pdb
+C:\EstudosDotNetCore\dotNetCoreForms\bin\Debug\netcoreapp2.0\mvc.deps.json
+C:\EstudosDotNetCore\dotNetCoreForms\bin\Debug\netcoreapp2.0\mvc.runtimeconfig.json
+C:\EstudosDotNetCore\dotNetCoreForms\bin\Debug\netcoreapp2.0\mvc.runtimeconfig.dev.json
+C:\EstudosDotNetCore\dotNetCoreForms\bin\Debug\netcoreapp2.0\mvc.dll
+C:\EstudosDotNetCore\dotNetCoreForms\bin\Debug\netcoreapp2.0\mvc.pdb
+C:\EstudosDotNetCore\dotNetCoreForms\obj\Debug\netcoreapp2.0\mvc.csprojResolveAssemblyReference.cache
+C:\EstudosDotNetCore\dotNetCoreForms\obj\Debug\netcoreapp2.0\mvc.csproj.CoreCompileInputs.cache
+C:\EstudosDotNetCore\dotNetCoreForms\obj\Debug\netcoreapp2.0\mvc.AssemblyInfoInputs.cache
+C:\EstudosDotNetCore\dotNetCoreForms\obj\Debug\netcoreapp2.0\mvc.AssemblyInfo.cs
+C:\EstudosDotNetCore\dotNetCoreForms\obj\Debug\netcoreapp2.0\mvc.dll
+C:\EstudosDotNetCore\dotNetCoreForms\obj\Debug\netcoreapp2.0\mvc.pdb

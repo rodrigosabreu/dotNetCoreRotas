@@ -38,10 +38,13 @@ namespace mvc.Controllers
         }*/
 
         //retorna umagem
-        public IActionResult Get(){
+        /*public IActionResult Get(){
             
             return File("images/banner1.svg", "image/svg+xml");
-        }
+        }*/
+
+        
+
 
     }
 }
