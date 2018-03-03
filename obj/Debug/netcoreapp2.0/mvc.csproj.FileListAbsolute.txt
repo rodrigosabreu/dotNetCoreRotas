@@ -9,3 +9,14 @@ C:\EstudosDotNetCore\mvc\obj\Debug\netcoreapp2.0\mvc.AssemblyInfo.cs
 C:\EstudosDotNetCore\mvc\obj\Debug\netcoreapp2.0\mvc.dll
 C:\EstudosDotNetCore\mvc\obj\Debug\netcoreapp2.0\mvc.pdb
 C:\EstudosDotNetCore\mvc\obj\Debug\netcoreapp2.0\mvc.csprojResolveAssemblyReference.cache
+C:\EstudosDotNetCore\mvc\dotNetCoreRotas\bin\Debug\netcoreapp2.0\mvc.deps.json
+C:\EstudosDotNetCore\mvc\dotNetCoreRotas\bin\Debug\netcoreapp2.0\mvc.runtimeconfig.json
+C:\EstudosDotNetCore\mvc\dotNetCoreRotas\bin\Debug\netcoreapp2.0\mvc.runtimeconfig.dev.json
+C:\EstudosDotNetCore\mvc\dotNetCoreRotas\bin\Debug\netcoreapp2.0\mvc.dll
+C:\EstudosDotNetCore\mvc\dotNetCoreRotas\bin\Debug\netcoreapp2.0\mvc.pdb
+C:\EstudosDotNetCore\mvc\dotNetCoreRotas\obj\Debug\netcoreapp2.0\mvc.csprojResolveAssemblyReference.cache
+C:\EstudosDotNetCore\mvc\dotNetCoreRotas\obj\Debug\netcoreapp2.0\mvc.csproj.CoreCompileInputs.cache
+C:\EstudosDotNetCore\mvc\dotNetCoreRotas\obj\Debug\netcoreapp2.0\mvc.AssemblyInfoInputs.cache
+C:\EstudosDotNetCore\mvc\dotNetCoreRotas\obj\Debug\netcoreapp2.0\mvc.AssemblyInfo.cs
+C:\EstudosDotNetCore\mvc\dotNetCoreRotas\obj\Debug\netcoreapp2.0\mvc.dll
+C:\EstudosDotNetCore\mvc\dotNetCoreRotas\obj\Debug\netcoreapp2.0\mvc.pdb
